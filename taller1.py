@@ -85,7 +85,8 @@ st.markdown("""
 <div class="header-banner">
     <h1>📊 Taller #1 &mdash; Estadística 3</h1>
     <p class="meta">Carrera: &nbsp;<strong>Ingeniería de Sistemas</strong></p>
-    <p class="meta">Estudiante: &nbsp;<span class="name-field">[ Escribe tu nombre aquí ]</span></p>
+    <p class="meta">Estudiante: &nbsp;<span class="name-field">Andres Felipe Velez Alcaraz</span></p>
+    <p class="meta">Profesor: &nbsp;<span class="name-field">Daniel Betancur Trujillo</span></p>
     <p class="meta">Tema: Tablas de Frecuencia · Gráficas de Pareto · Gráfica Radar Cruzada (Municipio × EPS)</p>
 </div>
 """, unsafe_allow_html=True)
