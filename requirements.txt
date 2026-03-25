@@ -2,7 +2,5 @@ streamlit
 pandas
 matplotlib
 numpy
-<<<<<<< HEAD:Requirements.txt
 scipy
-=======
->>>>>>> fbf245c47e5633d274dc6fc0319d1b78a5c88847:requirements.txt
+
